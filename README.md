@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: HARITHA RAMESH </h3>
-<h3>Register Number: 212223100011</h3>
+<h3>Name: KARTHIK G </h3>
+<h3>Register Number: 212223220043</h3>
 
 
 <h3>AIM:</h3>
